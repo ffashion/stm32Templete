@@ -1,0 +1,4 @@
+{
+    // 此文件一般设置vscode本身变量或者一些插件的变量的。和设置里面设置的是一一样的
+    "cortex-debug.armToolchainPath": "/home/fashion/bin/gcc-arm-none-eabi-9-2020-q2-update/bin"
+}
